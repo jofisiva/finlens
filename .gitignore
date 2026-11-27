@@ -1,0 +1,28 @@
+# Credentials and local environment
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+.venv/
+venv/
+
+# Generated data and local reports
+data/
+reports/
+finlens-answer-evaluation.json
+
+# Python and editor artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+~$*
+
+# Local recording notes
+DEMO_SCRIPT.md
+
+# Local submission documents and machine-specific launcher
+submission/
+Start-FinLens.command

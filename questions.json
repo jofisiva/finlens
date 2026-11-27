@@ -1,0 +1,138 @@
+[
+  {
+    "question": "What was Microsoft\u2019s total revenue in fiscal 2025?",
+    "year": "2025",
+    "expected_terms": [
+      "281,724"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "What was Microsoft\u2019s total revenue in fiscal 2024?",
+    "year": "2024",
+    "expected_terms": [
+      "245,122"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "What was net income in fiscal 2025?",
+    "year": "2025",
+    "expected_terms": [
+      "101,832"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "What was net income in fiscal 2024?",
+    "year": "2024",
+    "expected_terms": [
+      "88,136"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "How did Microsoft Cloud revenue change in 2025?",
+    "year": "2025",
+    "expected_terms": [
+      "168.9",
+      "137.7"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "What was diluted earnings per share in 2025?",
+    "year": "2025",
+    "expected_terms": [
+      "13.64"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "What AI risks does Microsoft disclose?",
+    "year": "2025",
+    "expected_terms": [],
+    "answerable": true
+  },
+  {
+    "question": "How does Microsoft recognize subscription revenue?",
+    "year": "2025",
+    "expected_terms": [],
+    "answerable": true
+  },
+  {
+    "question": "What are the risks of cybersecurity incidents?",
+    "year": "2025",
+    "expected_terms": [],
+    "answerable": true
+  },
+  {
+    "question": "What risks arise from foreign exchange movements?",
+    "year": "2025",
+    "expected_terms": [],
+    "answerable": true
+  },
+  {
+    "question": "What changed in operating cash flow between 2024 and 2025?",
+    "year": "2025",
+    "expected_terms": [],
+    "answerable": true
+  },
+  {
+    "question": "How does Microsoft describe competition in cloud computing?",
+    "year": "2025",
+    "expected_terms": [],
+    "answerable": true
+  },
+  {
+    "question": "What will Microsoft's stock price be next Friday?",
+    "year": "2025",
+    "expected_terms": [],
+    "answerable": false
+  },
+  {
+    "question": "What is Apple's 2025 revenue?",
+    "year": "2025",
+    "expected_terms": [],
+    "answerable": false
+  },
+  {
+    "question": "Should I buy Microsoft shares with my retirement savings?",
+    "year": "2025",
+    "expected_terms": [],
+    "answerable": false
+  },
+  {
+    "question": "What was Microsoft total revenue in fiscal 2022?",
+    "year": "2022",
+    "expected_terms": [
+      "198,270"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "What was Microsoft total revenue in fiscal 2023?",
+    "year": "2023",
+    "expected_terms": [
+      "211,915"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "Compare Microsoft total revenue from 2022 to 2025.",
+    "year": "All years",
+    "expected_terms": [
+      "198,270",
+      "211,915",
+      "245,122",
+      "281,724"
+    ],
+    "answerable": true
+  },
+  {
+    "question": "What changes to Microsoft reporting segments affect comparisons between fiscal 2024 and 2025?",
+    "year": "2025",
+    "expected_terms": [],
+    "answerable": true
+  }
+]
